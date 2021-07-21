@@ -8,32 +8,35 @@ A number of datasets are available, but this is not an extensive list, with more
 <h3>Population</h3>
 Population data for the UK. The total population at decadal intervals for the 5 SSP scenarios from 2020 to 2100 using a 1km grid. 
 <ul>
-    <li><a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EcdKCGVkgZNBgX03mjIUq-QBt6wClMONME9UTgAuebBQ-g?e=UnMDpy">Population</a>
-    <li><a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EZLg_JUqIDhPoU-BExMJ1LgBs7tbGzd6blE6Mlax9Aqg3g?e=DkSZ7M">Population by scenario</a>
+    <li>Population - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EcdKCGVkgZNBgX03mjIUq-QBt6wClMONME9UTgAuebBQ-g?e=UnMDpy">.gpkg</a>
+    <li>Population by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EZLg_JUqIDhPoU-BExMJ1LgBs7tbGzd6blE6Mlax9Aqg3g?e=DkSZ7M">.gpkg</a>
 </ul>
 
 <h3>Demography</h3>
 Demographic population breakdown. At Local Authority District resolution for the for the 5 SSP scenarios with 19 age classes.
 <ul>
-    <li><a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EfR4eRQX2PNNrhwDke955rYBxWa64NVtapZte_oT9yqHDQ?e=iFjMl7">Demography by scenario</a>
+    <li>Demography by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EfR4eRQX2PNNrhwDke955rYBxWa64NVtapZte_oT9yqHDQ?e=iFjMl7">.gpkg</a></li>
 </ul>
   
 <h3>Urbanisation</h3>
 Development of land. Presents status of land development (an artificial surface) or not for the UK for all five SSPs at decadal intervals (2020-2100) on a 1km grid.
 <ul>
-    <li><a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EeUXQuRTpd5Bh5f9UrvPtWABn800v12t-yO8LQf1l9vXjw?e=vTPxj4">Urbanisation</a>
-    <li><a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EbcbbaXaU3JDvZYOIvs4gWcB33s9NUpVv_CyNkbKms9fCw?e=rRKwkB">Urbanisation by scenario</a>
+    <li>Urbanisation - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EeUXQuRTpd5Bh5f9UrvPtWABn800v12t-yO8LQf1l9vXjw?e=vTPxj4">.gpkg</a></li>
+    <li>Urbanisation by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EbcbbaXaU3JDvZYOIvs4gWcB33s9NUpVv_CyNkbKms9fCw?e=rRKwkB">.gpkg</a></li>
 </ul>
 
 ## Original data
 Original data (spreadsheet) as accessed and downloaded on 19th July 2021 from https://www.ukclimateresilience.org/products-of-the-uk-ssps-project/
-- To be added soon!
+<ul>
+    <li>Spreadsheet - <a href="https://newcastle-my.sharepoint.com/:x:/g/personal/ncr48_newcastle_ac_uk/ER8tyD4esSVAo0NjST-XzFIB5vAid4Ax1r0S8vRJeSPV2w?e=zf4Qn9">.xls</a></li>
+</ul>
 
 ## Boundary datasets
 Boundary datasets of which the SSP data can be mapped with. Datasets are presumed based on the available metadata with the SSP datasets.
 
-To be added soon:
-- 1km grid
-- Local authority districts (December 2019)
-- NUTS2
-- NUTS3
+<ul>
+    <li>1km grid - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EYlyqSfCBbJAmkUfi1qlbKMBoPfSdvHajDn--Cx9fIOaSA?e=BkW9z9">.gpkg</a></li>
+    <li>Local authority districts (December 2019) - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/ESa9s8rgrNNIo_rjnAjcDzQBidY9d3GE5F8DtkuaG40F1g?e=ER6KaI">.gpkg</a></li>
+    <li>NUTS2</li>
+    <li>NUTS3</li>
+</ul>
