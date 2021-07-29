@@ -8,21 +8,22 @@ A number of datasets are available, but this is not an extensive list, with more
 <h3>Population</h3>
 Population data for the UK. The total population at decadal intervals for the 5 SSP scenarios from 2020 to 2100 using a 1km grid. 
 <ul>
-    <li>Population - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EcdKCGVkgZNBgX03mjIUq-QBt6wClMONME9UTgAuebBQ-g?e=UnMDpy">.gpkg</a>
-    <li>Population by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EZLg_JUqIDhPoU-BExMJ1LgBs7tbGzd6blE6Mlax9Aqg3g?e=DkSZ7M">.gpkg</a>
+    <li>Population - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EcdKCGVkgZNBgX03mjIUq-QBt6wClMONME9UTgAuebBQ-g?e=UnMDpy">.gpkg</a> - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EQ06OqLMWKpIhdtj9Al9vrQBgSrBIIX_FdPnPxQe8qxTEA?e=YQmAJM">.shp (.zip)</a></li>
+    <li>Population by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EZLg_JUqIDhPoU-BExMJ1LgBs7tbGzd6blE6Mlax9Aqg3g?e=DkSZ7M">.gpkg</a> - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/ESqNgbtoHbxGqVhJo43zFfgBeWdheWfg1RCRACU84Syxyg?e=fDZbzG">.sho (.zip)</a></li>
 </ul>
 
 <h3>Demography</h3>
 Demographic population breakdown. At Local Authority District resolution for the for the 5 SSP scenarios with 19 age classes.
 <ul>
     <li>Demography by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EfR4eRQX2PNNrhwDke955rYBxWa64NVtapZte_oT9yqHDQ?e=iFjMl7">.gpkg</a></li>
+    <li>Demography by scenario and age class - .gpkg (NA) - .gpkg (.zip)</li>
 </ul>
   
 <h3>Urbanisation</h3>
 Development of land. Presents status of land development (an artificial surface) or not for the UK for all five SSPs at decadal intervals (2020-2100) on a 1km grid.
 <ul>
-    <li>Urbanisation - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EeUXQuRTpd5Bh5f9UrvPtWABn800v12t-yO8LQf1l9vXjw?e=vTPxj4">.gpkg</a></li>
-    <li>Urbanisation by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EbcbbaXaU3JDvZYOIvs4gWcB33s9NUpVv_CyNkbKms9fCw?e=rRKwkB">.gpkg</a></li>
+    <li>Urbanisation - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EeUXQuRTpd5Bh5f9UrvPtWABn800v12t-yO8LQf1l9vXjw?e=vTPxj4">.gpkg</a> - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/ERndVQPHCmFGsWCrPqvE9qgBO9mENn6CRCgBOWyuZtmIIQ?e=si7670">.shp (.zip)</a></li>
+    <li>Urbanisation by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EbcbbaXaU3JDvZYOIvs4gWcB33s9NUpVv_CyNkbKms9fCw?e=rRKwkB">.gpkg</a> - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/ERvgSj-QyhZMusyFRHEQapEBF1mYPVbsY-bWET6fAZSjaQ?e=SHCiDk">.shp (.zip)</a></li>
 </ul>
 
 ## Original data
