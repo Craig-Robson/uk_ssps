@@ -20,7 +20,7 @@ Demographic population breakdown. At Local Authority District resolution for the
 </ul>
 
 <h3>Employment</h3>
-Employment counts. Count of number of people employed each of the 17 sectors for each year (from 2020-2100) at LAD level for all five SSPs.
+Employment counts. Count of number of people employed in each of the 17 sectors for each year (from 2020-2100) at Local Authority District level for all five SSPs.
 <ul>
     <li>Employment by scenario - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EaBp5AIKWa9Mh0qmo1x83PYBp5Ac1XYV4xtjx4c5tKfTtg?e=aiKH1q">.gpkg</a></li>
     <li>Employment by scenario and sector - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EWQzWqgaj3lHvVSuteW1mjwB9f3kjYj_Ez3JmTfGf5jNOg?e=wyyANM">.gpkg</a></li>
