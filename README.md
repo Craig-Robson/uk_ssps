@@ -44,7 +44,7 @@ Boundary datasets of which the SSP data can be mapped with. Datasets are presume
 
 <ul>
     <li>1km grid - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/EYlyqSfCBbJAmkUfi1qlbKMBoPfSdvHajDn--Cx9fIOaSA?e=BkW9z9">.gpkg</a></li>
-    <li>Local authority districts (December 2019) - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/ESa9s8rgrNNIo_rjnAjcDzQBidY9d3GE5F8DtkuaG40F1g?e=ER6KaI">.gpkg</a></li>
+    <li>Local authority districts (December 2020) - <a href="https://newcastle-my.sharepoint.com/:u:/g/personal/ncr48_newcastle_ac_uk/Ec6i3yP0Y0FNq7SRrF0rvmoB4bnilwGZtvo7Q6bVc4KkAg?e=8ssf73">.gpkg</a></li>
     <li>NUTS2</li>
     <li>NUTS3</li>
 </ul>
